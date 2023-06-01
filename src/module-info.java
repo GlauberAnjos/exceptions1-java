@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Glauber
+ *
+ */
+module course {
+}
